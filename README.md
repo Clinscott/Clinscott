@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Clinscott
+- 👀 I’m interested in learning. So much learning to do. So much knowledge to take in. It never really ends.
+- 🌱 I’m currently learning phaser.js in the hopes to broaden my knowledge of JavaScript.
+- 💞️ I’m looking to collaborate on how to best learn! There is so much out there, interesting and exciting. 
+- 📫 How to reach me on Twitter:@craiglinscott
