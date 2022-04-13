@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning my way around a fullstack environment.
 - 🌱 I’m currently learning React.js in the hopes to broaden my knowledge of JavaScript.
 - 💞️ I’m looking to build my own React website and learn SEO for front and back end development. 
-- 📫 Reacm me via Email at clinscott@gmail.com
+- 📫 Reach me via Email at clinscott@gmail.com
