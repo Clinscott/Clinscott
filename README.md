@@ -3,3 +3,10 @@
 - 🌱 I’m currently learning React.js in the hopes to broaden my knowledge of JavaScript.
 - 💞️ I’m looking to build my own React website and learn SEO for front and back end development. 
 - 📫 Reach me via Email at clinscott@gmail.com
+- Check out some of my main projects:
+- Northammer:
+- https://github.com/Clinscott/nextjs-blog
+- A website built with React and Next hosted through Vercel. The website appears at www.northammergames.gg, www.northammergames.com, and www.northammergames.ca
+- TriFighter
+- https://github.com/Clinscott/OneMustFall
+- A game built using Phaser.js. Soon to be hosted on my personal website which is still in development!
