@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clinscott
-- 👀 I’m interested in learning my way around a fullstack environment.
-- 🌱 I’m currently learning React.js in the hopes to broaden my knowledge of JavaScript.
-- 💞️ I’m looking to build my own React website and learn SEO for front and back end development. 
+- 👀 I’m interested in learning Cybersecurity.
+- 🌱 I’m currently learning Cybersecurity through CodeCademy.
+- 💞️ I am looking to grow my knowledge base in JavaScript and beyond.
 - 📫 Reach me via Email at clinscott@gmail.com
 - Check out some of my main projects:
 - Northammer:
