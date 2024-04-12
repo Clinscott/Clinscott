@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @Clinscott
-- 👀 I’m interested in learning Cybersecurity.
-- 🌱 I’m currently learning Cybersecurity through CodeCademy.
-- 💞️ I am looking to grow my knowledge base in JavaScript and beyond.
-- 📫 Reach me via Email at clinscott@gmail.com
-- Check out some of my main projects:
-- Northammer:
-- https://github.com/Clinscott/nextjs-blog
-- A website built with React and Next hosted through Vercel. The website appears at www.northammergames.gg, www.northammergames.com, and www.northammergames.ca
-- TriFighter
-- https://github.com/Clinscott/OneMustFall
-- A game built using Phaser.js. Soon to be hosted on my personal website which is still in development!
+Name: Craig Linscott        Race: Human        Alignment: Lawful Good         Class: Tech Wizard      Lvl: 7
+
+Str: 16      Int: 16
+Dex: 9       Wis: 16
+Con: 9       Char: 20
+
+HP:  20/34        AC:  12        Init: 16      Speed: 25
+
+Personality Traits: Charming, Enthusastic, frustratingly optomistic and loyal.
+Ideals: Honesty and integrity lead to respect. Respect for yourself and respect for others. Lose one and you lose it all.
+Bonds: Child, Wife, Mom and family.
+
+Attacks:
+
+
+SpellBook:
+
+
+
+
+
